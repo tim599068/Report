@@ -24,4 +24,6 @@
 # Week8
 *[patternX.html]()
 *[test1.html]()
-# 期末[]
+# 期末
+*[Final_report.html]()
+*[experience.html]()
