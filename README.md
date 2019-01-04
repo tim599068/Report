@@ -1,10 +1,10 @@
 # 網頁設計
 
 # Week1
-*[intro.html]()
+*[intro.html](https://gitcdn.link/repo/tim599068/report/master/w01/intro.html)
 # Week2
-*[Pokemon.html]()
-*[myclass.html]()
+*[Pokemon.html](https://gitcdn.link/repo/tim599068/report/master/w02/pokemon.html)
+*[myclass.html](https://gitcdn.link/repo/tim599068/report/master/w02/myclass.html)
 
 # Week3
 *[tku60.html]()
